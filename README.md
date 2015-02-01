@@ -1,2 +1,2 @@
 # Library
-Android application for NSBm Library
+Android application for NSBM Library
